@@ -21,6 +21,9 @@
     * What are your favorite PSRs?
     * Can you explain what autoloading is?  (PSR-4)
 
+* What makes code testable?
+    * What are some examples of code that is hard to test?
+    * Explain the difference between unit tests and functional tests.
 
 # Calculator Questions
 
